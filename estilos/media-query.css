@@ -36,7 +36,6 @@ Grandes telas: acima de 1200px
 
     body {
         background: url(../imagens/gamer-fundo.jpg) no-repeat;
-        ba
         background-size: cover;
         background-position: center top;
     }
