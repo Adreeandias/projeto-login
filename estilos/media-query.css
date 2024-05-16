@@ -35,7 +35,10 @@ Grandes telas: acima de 1200px
 @media screen and (min-width: 992px) {
 
     body {
-        background-image:linear-gradient(to top, #49a09d, #5f2c82);
+        background: url(../imagens/gamer-fundo.jpg) no-repeat;
+        ba
+        background-size: cover;
+        background-position: center top;
     }
 
     section#login {
